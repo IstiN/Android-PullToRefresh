@@ -27,3 +27,4 @@ proguard.cfg
 #OSX
 .DS_Store
 library/build/bundles/debug/
+library/build
